@@ -14,7 +14,7 @@ API-ს გამოსაყენებლად მიმართეთ შ�
 <br>
 ```https://rentcar.webwide.ge/api```
 <br>
-API-ს მუშაობა შეგიძლია ნახოთ აქ[Live Preview](https://rentcar-one.vercel.app/)
+API-ს მუშაობა შეგიძლია ნახოთ აქ [Live Preview](https://rentcar-one.vercel.app/)
 
 ## 🔑 Authentication
 
